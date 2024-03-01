@@ -1,0 +1,9 @@
+{
+    "development": {
+      "username": "asyncoder",
+      "password": "asyncoder",
+      "database": "USER_OTP",
+      "host": "localhost",
+      "dialect": "mysql"
+    }
+  }
